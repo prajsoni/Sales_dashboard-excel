@@ -1,7 +1,8 @@
 # Sales_dashboard-excel
 # Simpson's and Sons — Interactive Sales Dashboard
 
-![Dashboard Preview](dashboard_preview.png)
+<img width="1869" height="773" alt="Screenshot 2026-03-23 232324" src="https://github.com/user-attachments/assets/03ae74c2-4b49-4613-9541-778c867c98ee" />
+
 
 ## Project Overview
 
