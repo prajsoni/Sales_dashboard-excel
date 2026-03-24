@@ -1,18 +1,15 @@
+<img width="1869" height="773" alt="Screenshot 2026-03-23 232324" src="https://github.com/user-attachments/assets/03ae74c2-4b49-4613-9541-778c867c98ee" />
+
 # Sales_dashboard-excel
 # Simpson's and Sons — Interactive Sales Dashboard
 
-<img width="1869" height="773" alt="Screenshot 2026-03-23 232324" src="https://github.com/user-attachments/assets/03ae74c2-4b49-4613-9541-778c867c98ee" />
 
+This project showcases an interactive Excel dashboard analyzing 9,994 retail orders across the U.S. It highlights sales trends, profitability issues, and customer segment performance using pivot tables, slicers, and dynamic charts.
 
 ## Project Overview
 
-Built an interactive Excel dashboard for Simpson's and Sons, 
-a nationwide brick-and-mortar retailer selling technology, 
-office supplies, and furniture across 50 US states.
-
-The dashboard analyses **9,994 orders from 2011–2014** 
-to surface sales trends, profitability insights, and 
-regional performance for executive decision-making.
+Built an interactive Excel dashboard for Simpson's and Sons, a nationwide brick-and-mortar retailer selling technology, office supplies, and furniture across 50 US states.
+The dashboard analyses **9,994 orders from 2011–2014** to surface sales trends, profitability insights, and regional performance for executive decision-making.
 
 ---
 
